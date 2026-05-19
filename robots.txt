@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: <!-- REVISAR: https://tudominio.com/sitemap.xml -->
