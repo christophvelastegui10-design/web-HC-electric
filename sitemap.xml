@@ -1,23 +1,63 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc><!-- REVISAR: https://tudominio.com/index.html --></loc>
+    <loc>https://www.hcelectricpm.com/</loc>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc><!-- REVISAR: https://tudominio.com/servicios.html --></loc>
+    <loc>https://www.hcelectricpm.com/servicios.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc><!-- REVISAR: https://tudominio.com/nosotros.html --></loc>
+    <loc>https://www.hcelectricpm.com/nosotros.html</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc><!-- REVISAR: https://tudominio.com/contacto.html --></loc>
+    <loc>https://www.hcelectricpm.com/contacto.html</loc>
     <changefreq>yearly</changefreq>
     <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.hcelectricpm.com/ceiling-fan-installation.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.hcelectricpm.com/electrical-panel-upgrades.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.hcelectricpm.com/electrical-repair.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.hcelectricpm.com/emergency-electrician.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.hcelectricpm.com/ev-charger-installation.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.hcelectricpm.com/landscape-lighting-installation.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.hcelectricpm.com/lighting-installation.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.hcelectricpm.com/outlet-gfci-installation.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
   </url>
 </urlset>

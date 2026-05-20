@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: <!-- REVISAR: https://tudominio.com/sitemap.xml -->
+Sitemap: https://www.hcelectricpm.com/sitemap.xml
